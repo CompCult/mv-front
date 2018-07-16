@@ -1,1 +1,1 @@
-export const API = "http://museu-vivo-api.herokuapp.com"
+export const API = "https://museu-vivo-api.herokuapp.com"
